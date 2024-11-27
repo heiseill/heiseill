@@ -10,5 +10,4 @@ Meu nome é Lucas Domingos
 somhashira5@gmail.com
 
 ## Eu tenho um sonho!
-
-![](https://media1.tenor.com/m/4ok7HlHHjP8AAAAd/johnny-joestar.gif)
+![](https://media1.tenor.com/m/5NWi_IQcFkEAAAAC/gyro-johnny-joestar-jojo.gif)
