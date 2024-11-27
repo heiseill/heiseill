@@ -1,16 +1,13 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL
 
-<!--
-**heiseill/heiseill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas Domingos
 
-Here are some ideas to get you started:
+- faça cursos na plataforma [alura](https://www.alura.com.br)
+- ja fiz alguns cursos relacionados a JavaScript, Scratch e alguns sites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## você pode entrar em contato comigo 📧:
+
+somhashira5@gmail.com
+
+## Eu tenho um sonho!
+![](https://media1.tenor.com/m/4ok7HlHHjP8AAAAd/johnny-joestar.gif)
